@@ -54,6 +54,18 @@
 /code/controllers/configuration/entries @MrStonedOne
 /config/ @MrStonedOne
 
+<<<<<<< HEAD
+=======
+# Mothblocks
+
+/code/modules/unit_tests/ @Mothblocks
+/code/modules/client/preferences/ @Mothblocks
+/code/modules/preferences.dm @Mothblocks
+/code/modules/preferences_menu.dm @Mothblocks
+/code/modules/preferences_savefile.dm @Mothblocks
+/tgui/packages/tgui/interfaces/PreferencesMenu/ @Mothblocks
+
+>>>>>>> acb299bba1b... CODEOWNERS: Fix typo in PreferencesMenu (#61497)
 # ninjanomnom
 
 /code/__DEFINES/dcs/ @ninjanomnom
