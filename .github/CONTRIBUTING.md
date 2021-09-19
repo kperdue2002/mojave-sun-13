@@ -783,8 +783,12 @@ There is also an undocumented keyword called `static` that has the same behaviou
 
 ### Byond Hellspawn 
 
+<<<<<<< HEAD
 Put stuff that shouldn’t work but does, or should work but doesn’t here so we don’t forget about it.
 #### Icon hell
+=======
+[Hard deletes](./guides/HARDDELETES.md)
+>>>>>>> 28ba8ee9a08... Fixes some mispathed markdown links in the readme/contribution file (#61494)
 
 The ‘transparent’ icon state causes fucked behavior when used on turfs, for reasons unknown and unknowable
 
