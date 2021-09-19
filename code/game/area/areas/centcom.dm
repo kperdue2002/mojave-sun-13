@@ -41,6 +41,12 @@
 /area/centcom/supplypod
 	name = "Supplypod Facility"
 	icon_state = "supplypod"
+<<<<<<< HEAD
+=======
+	static_lighting = FALSE
+
+	base_lighting_alpha = 255
+>>>>>>> 519a15032e3... Default Baselighting to white (#61544)
 
 /area/centcom/supplypod/pod_storage
 	name = "Supplypod Storage"
@@ -93,10 +99,22 @@
 /area/tdome/arena
 	name = "Thunderdome Arena"
 	icon_state = "thunder"
+<<<<<<< HEAD
+=======
+	static_lighting = FALSE
+	base_lighting_alpha = 255
+
+>>>>>>> 519a15032e3... Default Baselighting to white (#61544)
 
 /area/tdome/arena_source
 	name = "Thunderdome Arena Template"
 	icon_state = "thunder"
+<<<<<<< HEAD
+=======
+	static_lighting = FALSE
+	base_lighting_alpha = 255
+
+>>>>>>> 519a15032e3... Default Baselighting to white (#61544)
 
 /area/tdome/tdome1
 	name = "Thunderdome (Team 1)"
@@ -136,7 +154,7 @@
 	icon_state = "yellow"
 	requires_power = FALSE
 	area_flags = UNIQUE_AREA | NOTELEPORT
-	base_lighting_color = COLOR_WHITE
+
 	base_lighting_alpha = 255
 	has_gravity = STANDARD_GRAVITY
 	flags_1 = NONE
@@ -172,7 +190,7 @@
 	icon_state = "yellow"
 	requires_power = FALSE
 	static_lighting = FALSE
-	base_lighting_color = COLOR_WHITE
+
 	base_lighting_alpha = 255
 	has_gravity = STANDARD_GRAVITY
 	flags_1 = NONE
